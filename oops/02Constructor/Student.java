@@ -24,13 +24,13 @@ public class Student {
     }
     public static void main(String[] args) {
 
-        Student s1 = new Student();
+        Student std1 = new Student();
 
-        Student s2 = new Student("Niharika", 25);
-        s2.getDetails();
+        Student std2 = new Student("Niharika", 25);
+        std2.getDetails();
 
-        Student s3 = new Student("Niharika", 25);
-        s3.getDetails();
+        Student std3 = new Student("Niharika", 25);
+        std2.getDetails();
 
     }
 }
