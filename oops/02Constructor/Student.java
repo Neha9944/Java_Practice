@@ -29,8 +29,8 @@ public class Student {
         Student std2 = new Student("Niharika", 25);
         std2.getDetails();
 
-        Student std3 = new Student("Niharika", 25);
-        std2.getDetails();
+        Student std3 = new Student("Alex", 25);
+        std3.getDetails();
 
     }
 }
